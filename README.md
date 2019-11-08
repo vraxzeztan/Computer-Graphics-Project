@@ -10,3 +10,5 @@ The model consists of 2 convolutional layers which are followed by maxpooling la
 **Training Accuracy -** 99.19</br>
 **Testing Accuracy -** 99.09
 
+## How to Run
+Follow the steps mentioned in MNIST.ipynb file
